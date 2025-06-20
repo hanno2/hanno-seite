@@ -24,4 +24,4 @@ Die Webseite ist verfügbar unter: https://hanno2.github.io/hanno-seite/
 - `hanno3-fotor-20250620134136.png` - Profilbild
 
 ## Autor
-Hanno Mademan - Student an der Code-Akademie
+Hanno Leweke - Student an der Code-Akademie
