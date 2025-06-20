@@ -16,7 +16,12 @@ Eine moderne, responsive Portfolio-Webseite erstellt mit Bootstrap 5.
 - Bootstrap Icons
 
 ## Live Demo
-Die Webseite ist verfügbar unter: [GitHub Pages Link]
+Die Webseite ist verfügbar unter: https://hanno2.github.io/hanno-seite/
+
+## Dateien
+- `index.html` - Hauptwebseite
+- `style.css` - Eigene CSS-Styles
+- `hanno3-fotor-20250620134136.png` - Profilbild
 
 ## Autor
 Hanno Mademan - Student an der Code-Akademie
