@@ -1,22 +1,15 @@
-# Hanno's Portfolio Webseite
+# Hanno Leweke von Burgers - Portfolio
 
 Eine moderne, responsive Portfolio-Webseite erstellt mit Bootstrap 5.
 
-## Features
-- 📱 Vollständig responsive Design
-- 🎨 Bootstrap 5 Framework
-- ✨ Moderne CSS-Animationen
-- 📧 Kontakt-Sektion
-- 🖼️ Profilbild-Integration
+## Live Demo
+🌐 **[Webseite besuchen](https://hanno2.github.io/hanno-seite/)**
 
 ## Technologien
 - HTML5
-- CSS3
+- CSS3  
 - Bootstrap 5.3.0
 - Bootstrap Icons
-
-## Live Demo
-Die Webseite ist verfügbar unter: https://hanno2.github.io/hanno-seite/
 
 ## Dateien
 - `index.html` - Hauptwebseite
@@ -24,4 +17,4 @@ Die Webseite ist verfügbar unter: https://hanno2.github.io/hanno-seite/
 - `hanno3-fotor-20250620134136.png` - Profilbild
 
 ## Autor
-Hanno Leweke - Student an der Code-Akademie
+Hanno Leweke von Burgers - Student an der Code-Akademie
